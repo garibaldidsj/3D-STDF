@@ -1,5 +1,5 @@
 ﻿# *3D Spatial Temporal Deformable Fusion - 3D-STDF* 
-The PyTorch implementation for the CF-STIF: *[Coarse-to-Fine Spatio-Temporal Information Fusion for Compressed Video Quality Enhancement](https://ieeexplore.ieee.org/abstract/document/9699019)* which is accepted by [IEEE SPL 2022].
+
 ## 1. Pre-request
 ### 1.1. Environment
 ```bash
