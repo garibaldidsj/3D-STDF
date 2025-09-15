@@ -1,7 +1,7 @@
 ﻿# *3D Spatial Temporal Deformable Fusion - 3D-STDF* 
 
 Link para acesso à planilha de resultados do mapeamento sistemátivo utilizado na elaboração deste trabalho
-https://docs.google.com/spreadsheets/d/1e7BgILsvj-KFsUdYEE17ts89wCL_z_OXJhaj9M_J00U/edit?usp=sharing}
+https://docs.google.com/spreadsheets/d/1e7BgILsvj-KFsUdYEE17ts89wCL_z_OXJhaj9M_J00U/edit?usp=sharing
 
 ## 1. Pre-request
 ### 1.1. Environment
